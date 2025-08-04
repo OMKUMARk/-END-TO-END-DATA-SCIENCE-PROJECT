@@ -1,13 +1,15 @@
-# -END-TO-END-DATA-SCIENCE-PROJECT
+# Iris Flower Classifier
 
-company: CODTECH IT SOLUTIONS
+This is a full-stack data science project that:
+- Collects and preprocesses data
+- Trains a RandomForestClassifier model
+- Deploys the model using Flask
 
-NAME: OM KUMAR
+## Usage
 
-INTERN ID: CT04DH1971
-
-DOMAIN: DATA SCIENCE
-
-DURATION: 4 WEEKS
-
-MENTOR: Muzammil
+1. Run `model_building.ipynb` to train and save the model
+2. Start the Flask app:
+```bash
+python app.py
+```
+3. Open browser at `http://localhost:5000` and input values to get prediction
