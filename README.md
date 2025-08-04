@@ -1,4 +1,5 @@
 END-TO-END DATA SCIENCE PROJECT
+
 company: CODTECH IT SOLUTIONS
 
 NAME: OM KUMAR
@@ -61,3 +62,7 @@ Adding error handling and validation for input fields
 Allowing API access via JSON for programmatic usage
 
 Deploying the app on a live server (e.g., Heroku or Render)
+
+#OUTPUT#
+
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/37e9be7f-9788-4cac-9617-339ad1f10df5" />
